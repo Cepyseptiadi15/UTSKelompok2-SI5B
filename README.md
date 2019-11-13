@@ -7,4 +7,4 @@
 4. Gilang             (A3.1700030)
 5. Ricky hardiansyah
 
-![image](assets/img/ss.png)
+![image](assets/img/ss.PNG)
